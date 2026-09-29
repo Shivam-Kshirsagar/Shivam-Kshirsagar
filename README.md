@@ -18,7 +18,7 @@ I'm a passionate Full Stack Web Developer focused on building responsive, scalab
 
 ## 🎓 Education
 
-**B.Sc. Computer Science** — Samarth College of Computer Science, Belhe | **2025–2028** | **CGPA: 9.00**
+**B.Sc. Computer Science** — Samarth College of Computer Science, Belhe | **2025–2028**
 
 ## 🌐 Connect With Me
 
