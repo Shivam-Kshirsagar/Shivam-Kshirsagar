@@ -14,7 +14,7 @@ I'm a passionate Full Stack Web Developer focused on building responsive, scalab
 
 ## 🛠️ Skills
 
-`JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `Next.js` `Tailwind CSS` `Git` `GitHub`
+`JavaScript` `TypeScript` `React.js` `Node.js` `Express.js` `MongoDB` `Next.js` `Tailwind CSS` `Git` `GitHub`
 
 ## 🎓 Education
 
