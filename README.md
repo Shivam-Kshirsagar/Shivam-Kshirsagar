@@ -10,7 +10,7 @@ I'm a passionate Full Stack Web Developer focused on building responsive, scalab
 - ⚛️ React.js & modern frontend development
 - 🟢 Node.js & Express.js
 - 🍃 MongoDB & REST APIs
-- 📚 Continuously learning and improving my skills
+- 📚 Continuously learning and improving my skills.
 
 ## 🛠️ Skills
 
