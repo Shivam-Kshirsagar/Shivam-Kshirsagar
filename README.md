@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Shivam Kshirsagar
 
 ### 🚀 Full Stack Web Developer | MERN Stack Developer
-
 I'm a passionate Full Stack Web Developer focused on building responsive, scalable, and user-friendly web applications .
-
 ## 👨‍💻 About Me
 
 - 💻 Full Stack Web Developer
